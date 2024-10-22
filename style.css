@@ -1,7 +1,16 @@
+body {
+    background-color: green;
+}
+
 h1 {
     text-align: center;
 }
 
 .Classe1 {
     font-style: italic;
+    font-size: 100px;
+}
+
+.Imagem {
+    width: 800px;
 }
